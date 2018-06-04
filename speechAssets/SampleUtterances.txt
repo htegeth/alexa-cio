@@ -1,0 +1,6 @@
+CIO-Intent Was sollen wir mit {problem} machen
+CIO-Intent Wie sieht es mit {problem} aus
+CIO-Intent Wir sollten ungedingt dies uns jenes tun
+CIO-Intent wenn wir nicht "problem" angehen haben wir ein Problem
+CIO-Intent wir brauchen dringend
+CIO-Intent was sind unsere vorgaben zu {problem}
